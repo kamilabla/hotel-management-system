@@ -79,6 +79,6 @@ Projekt składa się z następujących plików:
 
 ## Autorzy
 
-- **[Kamila Błaszczyna]**  [Twój profil GitHub](https://github.com/kamilabla)  
+- **Kamila Błaszczyna**  [GitHub](https://github.com/kamilabla)  
 
 
