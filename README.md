@@ -31,7 +31,7 @@ Projekt składa się z kilku klas odpowiadających za różne funkcjonalności, 
 - **Zapis danych**: Komenda `save` zapisuje dane wszystkich pokoi do pliku CSV.
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/333f3ec1-7f95-432c-82ed-69f55b80547c">
 
-- **Wyjście z programu**: Komenda `exit` kończy działanie aplikacji.
+- **Wyjście z programu**: Komenda `exit` kończy działanie aplikacji. <br/>
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/55820d55-c3d3-4678-89ea-158cf6600534">
 
 
