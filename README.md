@@ -26,13 +26,13 @@ Projekt składa się z kilku klas odpowiadających za różne funkcjonalności, 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/f0161232-b5dd-43fc-9f99-1c96ae94eca1">
 
 - **Szczegóły pokoju**: Komenda `view` pokazuje szczegółowe informacje o wybranym pokoju.
-  <img width="352" alt="image" src="https://github.com/user-attachments/assets/18ee1cb0-f29a-4ff5-8011-d75263fdc944">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/18ee1cb0-f29a-4ff5-8011-d75263fdc944">
 
 - **Zapis danych**: Komenda `save` zapisuje dane wszystkich pokoi do pliku CSV.
-  <img width="316" alt="image" src="https://github.com/user-attachments/assets/333f3ec1-7f95-432c-82ed-69f55b80547c">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/333f3ec1-7f95-432c-82ed-69f55b80547c">
 
 - **Wyjście z programu**: Komenda `exit` kończy działanie aplikacji.
-  <img width="185" alt="image" src="https://github.com/user-attachments/assets/55820d55-c3d3-4678-89ea-158cf6600534">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/55820d55-c3d3-4678-89ea-158cf6600534">
 
 
 ---
