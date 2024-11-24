@@ -11,7 +11,7 @@ Projekt składa się z kilku klas odpowiadających za różne funkcjonalności, 
 ## Funkcjonalności
 
 - **Start**: Na starcie program prosi o podanie jednej z dostępnych komend.
-  <img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/de363e66-6e81-43e5-91d5-a3cb33a821ce">
+  <img width="500" height="110" alt="image" src="https://github.com/user-attachments/assets/de363e66-6e81-43e5-91d5-a3cb33a821ce">
 
 - **Zameldowanie gościa**: Komenda `checkin` umożliwia przypisanie gościa do konkretnego pokoju.
   <img width="333" alt="image" src="https://github.com/user-attachments/assets/32a58df0-26b5-4864-b38b-b914185cfa58">
